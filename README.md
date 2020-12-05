@@ -4,4 +4,8 @@ Given the speed data of a major road in HK ranging from 2017/01/01 to 2018/12/31
 
 In this project, I use the linear regression and xgboost to fill in the value.
 
-This project mainly use python language to complete, and the code is in the xgboost_updated.ipynb/xgboost_updated.py file. Only the code in "Fill-in value" part is used in generating the results.
+This project mainly use python language to complete, and the code is in the xgboost_updated.ipynb/xgboost_updated.py file. 
+
+Only the code in "Fill-in value" part is used in generating the results.
+
+The packages needed for this project contain pandas, numpy, sklearn and xgboost.
