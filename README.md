@@ -9,3 +9,5 @@ This project mainly use python language to complete, and the code is in the xgbo
 Only the code in "Fill-in value" part is used in generating the results for the results of "XGBOOST" part seems to be worse.
 
 The packages needed for this project contain pandas, numpy, sklearn and xgboost.
+
+You can get the results by running the "Fill-in value" part in xgboost_updated.ipynb file step by step. 
