@@ -6,6 +6,6 @@ In this project, I use the linear regression and xgboost to fill in the value.
 
 This project mainly use python language to complete, and the code is in the xgboost_updated.ipynb/xgboost_updated.py file. 
 
-Only the code in "Fill-in value" part is used in generating the results.
+Only the code in "Fill-in value" part is used in generating the results for the results of "XGBOOST" part seems to be worse.
 
 The packages needed for this project contain pandas, numpy, sklearn and xgboost.
